@@ -1,0 +1,4 @@
+VU006,kevin,13,malaria,2,5,Waiting
+VU007,gift,20,head injury ,3,6,Served
+VU002,martha,16,cramps,2,2,Served
+VU005,John,45,internal bleeding,3,4,Served
